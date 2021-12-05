@@ -1,7 +1,7 @@
 # Lab5
 # Latihan 1
 ## Ini Adalah Hasil dari Latihan 1
-![Gambar](Foto/ss1h.png)
+![Gambar](Foto/ss1hh.png)
 ## Dengan Berikut kodenya
 Untuk bisa menampilkan semua isi dari sebuah dictionary saya memanfaatkan guna perulangan
 #### for daftar in kontak:
